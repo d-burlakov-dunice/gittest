@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 typedef struct player {
-	const char* cstr_id;
+	const char* name;
 	int x, y;
 } player_t;
 
